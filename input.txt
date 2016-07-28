@@ -1,0 +1,5 @@
+&control
+  dfreq_file   = "cl-1.txt"
+  smooth_type  = 1
+  smooth_sigma = 5
+/

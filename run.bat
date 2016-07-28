@@ -1,0 +1,3 @@
+make
+
+AFM input.txt
